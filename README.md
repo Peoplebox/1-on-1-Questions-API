@@ -134,7 +134,7 @@ alternatives | List of alternatves/children of this question
  
  ### Example Response
  
- `https://api.peoplebox.ai/v1/questions/16588`
+ `https://api.peoplebox.ai/v1/questions/3739`
  
  ```javascript
  {
@@ -167,7 +167,7 @@ alternatives | List of alternatves/children of this question
 
  ### Example Response
  
- `https://api.peoplebox.ai/v1/questions/categories`
+ `https://api.peoplebox.ai/v1/questions/categories?employee_type=manager`
  
  ```javascript
   [
