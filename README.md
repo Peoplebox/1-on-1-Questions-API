@@ -34,7 +34,7 @@ per_page | can be any number you want
 
 ### Example Response
 
-`http://localhost:3000/v1/questions?page=1&per_page=2&alternatives=true&employee_type=manager`
+`https://api.peoplebox.ai/v1/questions?page=1&per_page=2&alternatives=true&employee_type=manager`
 
 ```javascript
 [
@@ -134,7 +134,7 @@ alternatives | List of alternatves/children of this question
  
  ### Example Response
  
- `http://localhost:3000/v1/questions/16588`
+ `https://api.peoplebox.ai/v1/questions/16588`
  
  ```javascript
  {
