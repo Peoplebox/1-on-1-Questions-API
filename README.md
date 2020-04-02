@@ -1,5 +1,7 @@
 # Peoplebox 1-on-1 meeting Questions-API
 
+Built a comprehensive list of 1-on-1 questions for managers (550+) (view with upvotes and categories on https://www.peoplebox.ai/t/one-on-one-meeting-template-manager-questions-list). The API allows you to access all questions and their categories along with the **upvoted count**. 
+
 ## Overview
 
 ## URI and Versioning
@@ -7,6 +9,31 @@
 We hope to improve the API over time. The changes won't always be backward compatible, so we're going to use versioning. This first iteration will have URIs prefixed with `https://api.peoplebox.ai/v1/` and is structured as described below. There is currently no rate limit.
 
 For versioning purposes, only removal of a non-optional field or alteration of an existing field will be considered incompatible changes. *Clients should gracefully handle additional fields they don't expect, and simply ignore them.*
+
+# Categories & Questions
+
+## Manager Support
+
+- What would you want me to stop doing as your manager?
+- How can I provide you more autonomy at work?
+- What did your past managers do for you that you'd like me to continue doing?
+- What would you want me to continue doing as your manager?
+- Is there anything your past managers did that frustrate you?
+- What can I do to encourage more creativity & innovation in our team?
+- On a scale of 1-5, how would you rate my support to you as your manager?
+- Is there anything I can do to improve the performance of our team?
+- What can I do to bring down stress levels in our team?
+- What changes can I bring in to our 1-on-1 meetings to make them better?
+- What can I do to prepare you for success?
+- Is the team hesitating to share or discuss anything with me?
+
+## Roadblocks
+- Is there something that stressed you out recently at work? How can I help?
+- What are the biggest time wasters for you each week?
+- How are you progressing on the challenge(s) you were facing last time we spoke?
+- Do you have any questions related to your job but are a little hesitant to ask?
+- What roadblocks are preventing you from completing your tasks/projects on time?
+- What do you find most frustrating at work? What can I do to help you with it?
 
 # Questions API
 
