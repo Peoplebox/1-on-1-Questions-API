@@ -1,6 +1,8 @@
 # Peoplebox 1-on-1 meeting Questions-API
 
-Built a comprehensive list of 1-on-1 questions for managers (550+) (view with upvotes and categories on https://www.peoplebox.ai/t/one-on-one-meeting-template-manager-questions-list). The API allows you to access all questions and their categories along with the **upvoted count**. 
+Built a comprehensive list of 1-on-1 questions for managers (550+). View with upvotes and categories on https://www.peoplebox.ai/t/one-on-one-meeting-template-manager-questions-list. 
+
+This API allows you to access all questions and their categories along with the **upvoted count**. 
 
 ## Overview
 
