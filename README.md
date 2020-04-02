@@ -29,7 +29,7 @@ The API's to fetch information related to questions are as follows -
  
  ### URL
  
- `GET` https://api.peoplebox.ai/v1/questions
+ `GET` https://api.peoplebox.ai/v1/questions?employee_type=manager
  
  ### Parameters
  
@@ -157,12 +157,8 @@ alternatives | List of alternatves/children of this question
 }
 ```
  
- 
-# Questions API
 
- The API to fetch categories of question -
- 
- ## Categories
+ ## Categories API
  
   This API returns all the categories
  
