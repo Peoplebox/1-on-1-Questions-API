@@ -2,7 +2,8 @@
 
 We decided to build a comprehensive list of 1-on-1 questions for managers (550+) with upvotes and categories (View Upvotes and Alternatives on https://www.peoplebox.ai/t/one-on-one-meeting-template-manager-questions-list) 
 
-<iframe width="580" height="480" src="https://www.youtube.com/embed/PXPgv7hoR2A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Alt text](https://img.youtube.com/vi/PXPgv7hoR2A/0.jpg)](https://www.youtube.com/watch?v=PXPgv7hoR2A)
+
 
 Posted it on Producthunt and became #2 Product of the day with over 700 upvotes
 
