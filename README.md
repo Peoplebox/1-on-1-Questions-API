@@ -1,16 +1,10 @@
-# Peoplebox 1-on-1 meeting Questions-API
+# 1-on-1 meeting Questions for Managers with upvotes - API
 
-Built a comprehensive list of 1-on-1 questions for managers (550+). View with upvotes and categories on https://www.peoplebox.ai/t/one-on-one-meeting-template-manager-questions-list. 
+Built a comprehensive list of 1-on-1 questions for managers (550+) with upvotes and categories (View Upvotes and Alternatives  on https://www.peoplebox.ai/t/one-on-one-meeting-template-manager-questions-list) 
 
 This API allows you to access all questions and their categories along with the **upvoted count**. 
 
 ## Overview
-
-## URI and Versioning
-
-We hope to improve the API over time. The changes won't always be backward compatible, so we're going to use versioning. This first iteration will have URIs prefixed with `https://api.peoplebox.ai/v1/` and is structured as described below. There is currently no rate limit.
-
-For versioning purposes, only removal of a non-optional field or alteration of an existing field will be considered incompatible changes. *Clients should gracefully handle additional fields they don't expect, and simply ignore them.*
 
 # Categories & Questions
 
@@ -28,6 +22,7 @@ For versioning purposes, only removal of a non-optional field or alteration of a
 - What changes can I bring in to our 1-on-1 meetings to make them better?
 - What can I do to prepare you for success?
 - Is the team hesitating to share or discuss anything with me?
+[View all Manager Support with Upvotes](https://www.peoplebox.ai/t/one-on-one-meeting-template-manager-questions-list)
 
 ## Roadblocks
 - Is there something that stressed you out recently at work? How can I help?
@@ -36,6 +31,40 @@ For versioning purposes, only removal of a non-optional field or alteration of a
 - Do you have any questions related to your job but are a little hesitant to ask?
 - What roadblocks are preventing you from completing your tasks/projects on time?
 - What do you find most frustrating at work? What can I do to help you with it?
+
+## Career Growth & Development
+-	What new skills would you like to develop to meet your career goals?
+-	Whom would you like to have as your mentor?
+-	What specific training & development opportunities will help you in your career growth?
+-	What professional goals would you like to accomplish in the coming year?
+-	Have any of your future career goals changed since the last time we spoke?
+-	What work you do is most in line with your long-term goals?
+-	What kind of career growth do you value more? (new responsibilities, leading a team, promotion, learning a new skill, etc.)
+-	Which part of your job do you need additional guidance or training in?
+-	How can the training programs you've attended be made better?
+-	How else can your strengths benefit our team and the company?
+-	Is your current role helping you grow in your career at the pace you want?
+-	What is the next step you see in your career?
+-	Do you experience a skill gap that hinders you from reaching your goals?
+-	What are your long term professional goals and why do they matter to you?
+-	Which of your professional skills would you like to hone further?
+-	What skills are required to achieve your goals? How confident are you in these skills?
+-	How do you see your personal goals aligning with your team goals?
+-	What other skills do you have that you feel we are not fully utilizing?
+-	What other areas or functions of the company interest you?
+-	Do you feel your future goals are realistic and attainable?
+-	What's the most important thing in your career right now?
+-	What's your plan of action to reach your ideal role?
+-	Are there any other roles in the company that interest you?
+-	What more do you need in your career right now?
+
+
+
+## URI and Versioning
+
+We hope to improve the API over time. The changes won't always be backward compatible, so we're going to use versioning. This first iteration will have URIs prefixed with `https://api.peoplebox.ai/v1/` and is structured as described below. There is currently no rate limit.
+
+For versioning purposes, only removal of a non-optional field or alteration of an existing field will be considered incompatible changes. *Clients should gracefully handle additional fields they don't expect, and simply ignore them.*
 
 # Questions API
 
