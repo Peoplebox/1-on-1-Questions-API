@@ -1,4 +1,4 @@
-# 1-on-1 meeting Questions for Managers with upvotes - API
+# 1-on-1 meeting Questions for Managers with social upvotes - API
 
 Built a comprehensive list of 1-on-1 questions for managers (550+) with upvotes and categories (View Upvotes and Alternatives  on https://www.peoplebox.ai/t/one-on-one-meeting-template-manager-questions-list) 
 
@@ -264,15 +264,15 @@ This API allows you to access all questions and their categories along with the 
 -	How are you coping with your workload?
 -	How satisfied are you in the way you and your team are progressing?
 
+# Questions API
+
 ## URI and Versioning
 
 We hope to improve the API over time. The changes won't always be backward compatible, so we're going to use versioning. This first iteration will have URIs prefixed with `https://api.peoplebox.ai/v1/` and is structured as described below. There is currently no rate limit.
 
 For versioning purposes, only removal of a non-optional field or alteration of an existing field will be considered incompatible changes. *Clients should gracefully handle additional fields they don't expect, and simply ignore them.*
 
-# Questions API
-
- The API's to fetch information related to questions are as follows -
+The API's to fetch information related to questions are as follows -
  
  ## Index
  
