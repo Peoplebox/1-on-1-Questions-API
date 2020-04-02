@@ -5,9 +5,7 @@ We decided to build a comprehensive list of 1-on-1 questions for managers (550+)
 ![](one-on-one-list.gif)
 
 
-Posted it on Producthunt and became #2 Product of the day with over 700 upvotes
-
-<a href="https://www.producthunt.com/posts/1-on-1-meeting-questions-for-managers?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-1-on-1-meeting-questions-for-managers" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=186748&theme=light" alt="1-on-1 Meeting Questions for Managers - Browse most popular 1-on-1 questions by categories | Product Hunt Embed" style="width: 250px; height: 54px;" width="187px" height="40px" /></a>
+Posted it on Producthunt and became #2 Product of the day with over 700 upvotes <a href="https://www.producthunt.com/posts/1-on-1-meeting-questions-for-managers?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-1-on-1-meeting-questions-for-managers" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=186748&theme=light" alt="1-on-1 Meeting Questions for Managers - Browse most popular 1-on-1 questions by categories | Product Hunt Embed" style="width: 250px; height: 54px;" width="187px" height="40px" /></a>
 
 So decided to built an API to allow  access all questions and their categories along with the **upvoted count**. 
 
