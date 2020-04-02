@@ -22,6 +22,7 @@ This API allows you to access all questions and their categories along with the 
 - What changes can I bring in to our 1-on-1 meetings to make them better?
 - What can I do to prepare you for success?
 - Is the team hesitating to share or discuss anything with me?
+
 [View all Manager Support with Upvotes](https://www.peoplebox.ai/t/one-on-one-meeting-template-manager-questions-list)
 
 ## Roadblocks
