@@ -2,7 +2,7 @@
 
 We decided to build a comprehensive list of 1-on-1 questions for managers (550+) with upvotes and categories (View Upvotes and Alternatives on https://www.peoplebox.ai/t/one-on-one-meeting-template-manager-questions-list) 
 
-![](one-on-one-list.gif)
+![](https://peoplebox-marketing.s3.ap-south-1.amazonaws.com/one-on-one-list.gif)
 
 
 Posted it on Producthunt and became #2 Product of the day with over 700 upvotes
