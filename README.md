@@ -164,7 +164,7 @@ alternatives | List of alternatves/children of this question
  
  ### URL
  
- `GET` https://api.peoplebox.ai/v1/questions/categories
+ `GET` https://api.peoplebox.ai/v1/questions/categories?employee_type=manager
  
  ### Parameters
  Field | Description
@@ -178,37 +178,20 @@ alternatives | List of alternatves/children of this question
  
  ```javascript
   [
-    "Alignment",
-    "Being helpful/being awesome:",
-    "Career Development",
     "Career Growth & Development",
-    "Company Culture",
-    "Company Improvement",
-    "Conversation Starter",
-    "Employee Motivation",
     "Feedback",
-    "Feeling valued",
-    "Feeling Values",
-    "General check-in questions",
     "Goals & Alignment",
-    "Happiness",
-    "Job Performance",
-    "Job Satisfaction",
-    "Long Term Goals",
-    "Manager",
+    "Icebreakers",
     "Manager Support",
-    "Materials & equipments",
     "Organizational Feedback",
-    "Personal Life",
-    "Progress Questions",
-    "Recognition",
-    "Relationships",
-    "Self Improvement",
-    "Team and Company",
-    "Team Dynamics",
-    "Team Relations",
+    "Recognition ",
+    "Roadblocks",
+    "Role Clarity & Expectations",
+    "Team Work & Collaboration",
+    "Tools & Resources",
     "Work Responsibilities",
-    "Work-life"
+    "Work Responsibilities & Performance",
+    "Work Satisfaction"
 ]
  ```
  
