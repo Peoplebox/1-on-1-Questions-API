@@ -1,4 +1,4 @@
-# 1-on-1 meeting Questions for Managers with social upvotes - API
+# 1-on-1 Meeting Questions for Managers with upvotes - API
 
 We decided to build a comprehensive list of 1-on-1 questions for managers (550+) with upvotes and categories (View Upvotes and Alternatives on https://www.peoplebox.ai/t/one-on-one-meeting-template-manager-questions-list) 
 
@@ -220,7 +220,7 @@ alternatives | List of alternatves/children of this question
 -	Is there anything you would like me to clarify or re-explain to our team?
 -	What can I do to build our team's reputation in the company?
 
-[View Upvotes & Alternatives](https://www.peoplebox.ai/t/one-on-one-meeting-template-manager-questions-list)
+[View Upvotes & Alternatives](https://www.peoplebox.ai/t/one-on-one-meeting-template-manager-questions-list#manager-support)
 
 ## Roadblocks
 -	Is there something that stressed you out recently at work? How can I help?
@@ -239,7 +239,7 @@ alternatives | List of alternatves/children of this question
 -	Is there any particular activity that you spend most of your time on?
 -	What areas are you struggling with while managing your team?
 
-[View Upvotes & Alternatives](https://www.peoplebox.ai/t/one-on-one-meeting-template-manager-questions-list)
+[View Upvotes & Alternatives](https://www.peoplebox.ai/t/one-on-one-meeting-template-manager-questions-list#roadblocks)
 
 ## Career Growth & Development
 -	What new skills would you like to develop to meet your career goals?
@@ -267,7 +267,7 @@ alternatives | List of alternatves/children of this question
 -	Are there any other roles in the company that interest you?
 -	What more do you need in your career right now?
 
-[View Upvotes & Alternatives](https://www.peoplebox.ai/t/one-on-one-meeting-template-manager-questions-list)
+[View Upvotes & Alternatives](https://www.peoplebox.ai/t/one-on-one-meeting-template-manager-questions-list#career-growth-&-development)
 
 ## Feedback
 -	Are you happy with the amount of feedback we give to each other in the team?
@@ -285,7 +285,7 @@ alternatives | List of alternatves/children of this question
 -	Is the feedback I give you sufficient?
 -	Whom do you get valuable feedback from the team?
 
-[View Upvotes & Alternatives](https://www.peoplebox.ai/t/one-on-one-meeting-template-manager-questions-list)
+[View Upvotes & Alternatives](https://www.peoplebox.ai/t/one-on-one-meeting-template-manager-questions-list#feedback)
 
 ## Goals & Alignment
 -	What one goal, if accomplished, will have the greatest impact on your life? How would it impact?
@@ -302,7 +302,7 @@ alternatives | List of alternatves/children of this question
 -	Do you see yourself making progress on your goals here?
 -	What goals will be challenging for you to accomplish this month/quarter?
 
-[View Upvotes & Alternatives](https://www.peoplebox.ai/t/one-on-one-meeting-template-manager-questions-list)
+[View Upvotes & Alternatives](https://www.peoplebox.ai/t/one-on-one-meeting-template-manager-questions-list#goals-&-alignment)
 
 ## Icebreakers
 -	What do you wish you’d learnt when you were younger?
@@ -327,7 +327,7 @@ alternatives | List of alternatves/children of this question
 -	What does your ideal weekday look like?
 -	Given a choice of anyone in the world, whom would you like to have as your dinner guest?
 
-[View Upvotes & Alternatives](https://www.peoplebox.ai/t/one-on-one-meeting-template-manager-questions-list)
+[View Upvotes & Alternatives](https://www.peoplebox.ai/t/one-on-one-meeting-template-manager-questions-list#icebreakers)
 
 ## Organizational Feedback
 -	What changes would you bring in if you were given the reins of this company?
@@ -347,6 +347,8 @@ alternatives | List of alternatves/children of this question
 -	Do you need any clarity on our company’s strategies and/or goals?
 -	Do you have any questions about the company's mission and your role in its success?
 
+[View Upvotes & Alternatives](https://www.peoplebox.ai/t/one-on-one-meeting-template-manager-questions-list#organizational-feedback)
+
 ## Recognition
 -	What form of recognition would you prefer the most: public or private, new responsibilities, awards, promotion, cash, etc?
 -	What makes you feel valued at work?
@@ -361,6 +363,8 @@ alternatives | List of alternatves/children of this question
 -	Whom did you appreciate recently and for what ?
 -	What feedback or praises have you got in your current role?
 
+[View Upvotes & Alternatives](https://www.peoplebox.ai/t/one-on-one-meeting-template-manager-questions-list#recognition)
+
 ## Role Clarity & Expectations
 -	Do you need more clarity on what's required of your current role?
 -	What do you expect from this role? (eg: learning, personal development, tasks ownership, etc)
@@ -372,6 +376,8 @@ alternatives | List of alternatves/children of this question
 -	Do your current roles & responsibilities stand up to your expectations? If not, why?
 -	How can I help you to get more role clarity?
 -	Do you have a current job description?
+
+[View Upvotes & Alternatives](https://www.peoplebox.ai/t/one-on-one-meeting-template-manager-questions-list#role-clarity-&-expectations)
 
 ## Team Work & Collaboration
 -	Do you face difficulty in getting along with anyone in our team?
@@ -395,6 +401,8 @@ alternatives | List of alternatves/children of this question
 -	What improvements can we make in our processes as a team?
 -	How would you describe our team’s work environment?
 
+[View Upvotes & Alternatives](https://www.peoplebox.ai/t/one-on-one-meeting-template-manager-questions-list#team-work-&-collaboration)
+
 ## Tools & Resources
 -	Do you have the necessary tools and resources to perform your job?
 -	What tools or resources would help you increase your productivity at work?
@@ -405,6 +413,8 @@ alternatives | List of alternatves/children of this question
 -	What type of work environment brings out the best in you?
 -	Are there any tools and/or resources that you rarely use and can get rid of it?
 -	What's one thing we can change in our office environment to boost the efficiency of our team?
+
+[View Upvotes & Alternatives](https://www.peoplebox.ai/t/one-on-one-meeting-template-manager-questions-list#tools-&-resources)
 
 ## Work Responsibilities & Performance
 -	How would your ideal job/position differ from your current one?
@@ -432,6 +442,8 @@ alternatives | List of alternatves/children of this question
 -	What have you learned so far while working on [Project X]?
 -	Is something bothering you about any current or upcoming projects/tasks?
 
+[View Upvotes & Alternatives](https://www.peoplebox.ai/t/one-on-one-meeting-template-manager-questions-list#work-responsibilities-&-performance)
+
 ## Work Satisfaction
 -	What do you enjoy the most in your current role?
 -	On a scale of 1-5, how happy are you at work? How can I make it better for you?
@@ -452,3 +464,6 @@ alternatives | List of alternatves/children of this question
 -	How do you feel about your current workload?
 -	How are you coping with your workload?
 -	How satisfied are you in the way you and your team are progressing?
+
+[View Upvotes & Alternatives](https://www.peoplebox.ai/t/one-on-one-meeting-template-manager-questions-list#work-satisfaction)
+
