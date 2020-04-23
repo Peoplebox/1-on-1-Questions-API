@@ -1,15 +1,15 @@
-# 1-on-1 Meeting Questions for Managers with upvotes - API
+# 1-on-1 Meeting Questions (with upvotes) for Managers - API
 
-We decided to build a comprehensive list of 1-on-1 questions for managers (550+) with upvotes and categories (View Upvotes and Alternatives on https://www.peoplebox.ai/t/one-on-one-meeting-template-manager-questions-list) 
+We decided to build a comprehensive list of 1-on-1 questions for managers (550+) with upvotes and eeasy-to-browse categories (View upvotes and alternatives on https://www.peoplebox.ai/t/one-on-one-meeting-template-manager-questions-list) 
 
 ![](https://peoplebox-marketing.s3.ap-south-1.amazonaws.com/one-on-one-list.gif)
 
 
-Posted it on Producthunt and became #2 Product of the day with over 700 upvotes
+Shared on Producthunt and was voted as the #2 Product of the day with over 700 upvotes
 
 <a href="https://www.producthunt.com/posts/1-on-1-meeting-questions-for-managers?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-1-on-1-meeting-questions-for-managers" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=186748&theme=light" alt="1-on-1 Meeting Questions for Managers - Browse most popular 1-on-1 questions by categories | Product Hunt Embed" style="width: 250px; height: 54px;" width="187px" height="40px" /></a> <a href="https://www.producthunt.com/posts/1-on-1-meeting-questions-for-managers?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-1-on-1-meeting-questions-for-managers" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=186748&theme=light&period=daily" alt="1-on-1 Meeting Questions for Managers - Browse most popular 1-on-1 questions by categories | Product Hunt Embed" style="width: 250px; height: 54px;" width="187px" height="40px" /></a>
 
-So decided to built an API to allow  access all questions and their categories along with the **upvoted count**. 
+So decided to built an API to allow  access to all questions into their categories along with their **upvoted count**. 
 
 ## Overview
 
@@ -197,8 +197,36 @@ alternatives | List of alternatves/children of this question
  
 # Categories & Questions
 
-## Manager Support
+## Managing Remote Teams
+-	What strategies do you use to take breaks during your day while working from home?
+-	Is our weekly remote team meeting a good use of time?
+-	How do you limit distractions while working remotely?
+-	Do we collaborate well enough when everyone is working remotely?
+-	Which communication method would you prefer to use while working remotely?
+-	Do you have a clear idea about your role and the tasks you're working on?
+-	How are you handling work life balance when working from home?
+-	While working remotely, are there any meetings on your calendar you think you don't need to attend?
+-	How is the company doing in communicating important decisions or information to you?
+-	What do you like the most about working remotely?
+-	Is your current workload too overwhelming for you to be effective?
+-	While working remotely, are there any meetings you aren’t a part of but want to be involved in?
+-	What’s the biggest challenge that you face while working from home?
+-	What do you like the least about working remotely?
+-	When you’re stuck with a problem, do you face any difficulty getting in touch with any team members?
+-	Do you feel you’re missing out on something while working remotely? If so, what’s it?
+-	Do you encounter any problems in communicating with me or the team via our existing communication channels?
+-	Is there a difference in your motivation level when you work from the office or when you work remotely?
+-	Have your relations with the team members changed while being remote?
+-	Do you feel relaxed or stressed while working from home? How can I help in case you feel stressed?
+-	Do you think our company has a remote work friendly culture?
+-	Do you want to suggest any tools to improve our collaboration?
+-	Can you think of an instance where our communication faltered and it impacted your work?
+-	Are you satisfied with the information you’re provided to complete most tasks?
+-	What can I do to make remote work easier for you?
 
+[View Upvotes & Alternatives](https://www.peoplebox.ai/t/one-on-one-meeting-template-manager-questions-list#remote-teams)
+
+## Manager Support
 -	What would you want me to stop doing as your manager?
 -	How can I provide you more autonomy at work?
 -	What did your past managers do for you that you'd like me to continue doing?
